@@ -1,5 +1,5 @@
 # Pepega Menu Help
-# Auth is Currently DOWN 
+# Launcher is Working 😃
 
 ### Antivirus:
 ### Disable Windows Defender for a short time:
